@@ -1,6 +1,8 @@
 
 /* Mesa de Trabalho 12*/
 
+
+
 const alicia = [23, 69, 43]
  const bob = [24, 69, 43]
  
